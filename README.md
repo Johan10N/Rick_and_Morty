@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 =======
 # Rick_and_Morty
 >>>>>>> 80292f4da0d59f8152887af1145e16e8247d6e07
+=======
+# Rick_and_Morty
+Rick and Morty - Proyecto del Diplomado
+>>>>>>> 3613826afdc1bfa14eb1183a1a08e09a5ae96f62
