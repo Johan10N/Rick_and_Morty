@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -20,3 +21,7 @@ Rick and Morty - Proyecto del Diplomado
 # Rick-Morty
 Rick and Morty - Proyecto del Diplomado
 >>>>>>> 08b21d3c30443f7c1fe06a4c5354dfa765577da3
+=======
+# Rick_and_Morty
+Rick and Morty - Proyecto del Diplomado
+>>>>>>> 16372b3235d1513538bc960b91df51f8299d97c5
