@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Caracteres from "./caracteres";
+import Caracteres from "./Caracteres";
 
 function Navegador(props) {
   return (
