@@ -4,7 +4,7 @@ import Caracteres from "./caracteres";
 function Navegador(props) {
   return (
     <div className="d-flex justify-content-between aling-items-center">
-      {props.page ==1 ? (
+      {props.page == 1? (
       <p><b>Pagina {props.page}</b></p>
       ):(
         <button

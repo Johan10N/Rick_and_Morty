@@ -98,9 +98,9 @@ button:focus-visible {
 .fondo{background-image: linear-gradient(
   108deg,
   #7a767c 8%,
-  #363537 40%,
+  #363537 4%,
   #938f97 77%,
-  #0e0d0e 91%
+  #0e0d0e 2%
 );}
 
 }
