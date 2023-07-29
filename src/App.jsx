@@ -1,4 +1,4 @@
-import ListaCaracteres from "./components/listaCaracteres.jsx";
+import ListaCaracteres from "./components/ListaCaracteres.jsx";
 
 function App() {
   return <div className="fondo text-white">
